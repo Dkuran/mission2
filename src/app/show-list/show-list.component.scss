@@ -1,0 +1,28 @@
+.page_content {
+	border: 1px solid black;
+	padding: 2%;
+}
+
+.post_content {
+	padding: 1%;
+	box-shadow: 2px 3px lightgrey;
+	margin-bottom: 1%;
+	border: 1px solid lightslategray;
+}
+
+.post_text {
+	color: grey;
+	font-size: 12px;
+	font-style: italic;
+}
+
+.post_author {
+	color: darkgray;
+	font-size: 8px;
+	font-style: oblique;
+}
+
+.post_title {
+	color: black;
+	font-size: 10px;
+}
