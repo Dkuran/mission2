@@ -1,7 +1,7 @@
 <div style="text-align: center">
   <h1>Homework#2</h1>
 </div>
-<app-show-list [dataToShow]='posts'></app-show-list>
+<app-show-list [dataToShow]='postsData' (deletePosts)="onDeletePosts($event)"></app-show-list>
 
 
 
